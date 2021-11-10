@@ -1,0 +1,13 @@
+test.png
+node_modules
+dist
+.cache
+coverage
+yarn-error.log
+.DS_Store
+/dist
+dist
+/node_modules
+node_modules
+.cache
+.circleci
